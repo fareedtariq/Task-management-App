@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 📱 Task Management App
 
 **Course:** Mobile Application Development  
@@ -99,3 +100,6 @@ The **Task Management App** is a powerful and easy-to-use Flutter application de
 ---
 
 Enjoy building your task management app! 🚀
+=======
+d
+>>>>>>> e7a93e168a42a85efbd71a998059a05560c305e0
